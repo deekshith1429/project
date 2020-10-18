@@ -1,0 +1,18 @@
+import React from 'react'
+
+export default function Rome() {
+    return (
+        <div className="container p-5  bg-light">
+            <h1><u>About Rome</u></h1>
+            <div className="text-center"><img src="https://cdn.britannica.com/s:700x500/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg"/></div>
+           <br/> <h3>Brief synthesis</h3>
+           
+            <p className="text-justify">The structure was officially dedicated in 80 CE by Titus in a ceremony that included 100 days of games. Later, in 82 CE, Domitian completed the work by adding the uppermost story. Unlike earlier amphitheatres, which were nearly all dug into convenient hillsides for extra support, the Colosseum is a freestanding structure of stone and concrete, using a complex system of barrel vaults and groin vaults and measuring 620 by 513 feet (189 by 156 metres) overall. Three of the arena’s stories are encircled by arcades framed on the exterior by engaged columns in the Doric, Ionic, and Corinthian orders; the structure’s rising arrangement of columns became the basis of the Renaissance codification known as the assemblage of orders. The main structural framework and facade are travertine, the secondary walls are volcanic tufa, and the inner bowl and the arcade vaults are concrete.</p>
+              <p className="text-justify">The amphitheatre seated some 50,000 spectators, who were shielded from the sun by a massive retractable velarium (awning). Supporting masts extended from corbels built into the Colosseum’s top, or attic, story, and hundreds of Roman sailors were required to manipulate the rigging that extended and retracted the velarium. The Colosseum was the scene of thousands of hand-to-hand combats between gladiators, of contests between men and animals, and of many larger combats, including mock naval engagements. However, it is uncertain whether the arena was the site of the martyrdom of early Christians.</p>
+       <p className="text-justify">In medieval times, the Colosseum was used as a church, then as a fortress by two prominent Roman families, the Frangipane and the Annibaldi. The Colosseum was damaged by lightning and earthquakes and, even more severely, by vandalism and pollution. All the marble seats and decorative materials disappeared, as the site was treated as little more than a quarry for more than 1,000 years. Preservation of the Colosseum began in earnest in the 19th century, with notable efforts led by Pius VIII, and a restoration project was undertaken in the 1990s. It has long been one of Rome’s major tourist attractions, receiving close to seven million visitors annually. Changing exhibitions relating to the culture of ancient Rome are regularly mounted.</p>
+       <p className="text-justify">Roman Forum, Latin Forum Romanum, most important forum in ancient Rome, situated on low ground between the Palatine and Capitoline hills. The Roman Forum was the scene of public meetings, law courts, and gladiatorial combats in republican times and was lined with shops and open-air markets. Under the empire, when it primarily became a centre for religious and secular spectacles and ceremonies, it was the site of many of the city’s most imposing temples and monuments.</p>
+       <p className="text-justify">Among the structures surviving in whole or in part are the Temple of Castor and Pollux, the Temple of the Deified Caesar, the Mamertine Prison, the Curia (senate house), the Temple of Saturn, the Temple of Vesta, the Temple of Romulus, the Arch of Titus, the Arch of Septimius Severus, and the Cloaca Maxima.</p>
+       
+        </div>
+    )
+}
